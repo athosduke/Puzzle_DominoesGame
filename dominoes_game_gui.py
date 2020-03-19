@@ -1,7 +1,7 @@
 import sys
 import tkinter as Tkinter
 
-import homework3  # change this to filename
+import puzzle
 
 class Square(Tkinter.Canvas):
 
